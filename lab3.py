@@ -40,7 +40,7 @@ table = str.maketrans({
 
 })
 chastota = dict()
-ALPHABET = 'абвгдеєжзийіклмнопрстуфхцчшщьюяґ. ,-'
+ALPHABET = 'абвгґдеєжзийіклмнопрстуфхцчшщьюя. ,-'
 
 
 import sys, pathlib
