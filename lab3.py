@@ -44,7 +44,7 @@ ALPHABET = 'абвгдеєжзийіклмнопрстуфхцчшщьюяґ. ,-
 
 
 import sys, pathlib
-src = pathlib.Path("input.txt").read_text(encoding="utf-8")
+src = pathlib.Path("V5.txt").read_text(encoding="utf-8")
 for char in ALPHABET: 
     chastota[char] = src.count(char)/len(src) 
 
