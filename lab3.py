@@ -1,7 +1,7 @@
 # replace_simple.py
 table = str.maketrans({
     'ф': '_',
-    'ц': '!',
+    'ц': '.',
     'у': 'І',
     'ю': 'Н',
     'ч': 'О', 
