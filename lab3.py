@@ -1,4 +1,3 @@
-# replace_simple.py
 table = str.maketrans({
     'ф': '_',
     'ц': '.',
